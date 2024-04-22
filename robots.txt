@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://baudm.github.io/sitemap.xml
