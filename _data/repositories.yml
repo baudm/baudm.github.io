@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - baudm
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - baudm/parseq
+  - baudm/ngse-manuscript
+  - baudm/mplayer.py
+  - baudm/MONet-pytorch
+  - baudm/vaegan-celebs-keras
+  - baudm/ospf-sim
