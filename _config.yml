@@ -127,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Synapse # blog_name will be displayed in your blog page
-blog_description: thoughts captured and immortalized
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
