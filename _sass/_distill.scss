@@ -52,6 +52,16 @@ d-article {
     border-left: 2px solid var(--global-theme-color) !important;
   }
 
+  // Dark mode-aware caption styles
+  .caption,
+  figcaption {
+    color: var(--global-text-color-light);
+  }
+  .caption > *,
+  figcaption > * {
+    color: var(--global-text-color);
+  }
+
   // Style taken from code blocks
   details {
     color: var(--global-text-color);
