@@ -9,6 +9,11 @@ featured: false
 chart:
   echarts: true
 
+authors:
+  - name: Darwin Bautista
+    affiliations:
+      name: Samsung R&D Institute Philippines
+
 bibliography: 2024-05-17-datasets-for-autonomous-vehicles.bib
 
 toc:
