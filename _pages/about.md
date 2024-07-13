@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! I'm Darwin, a software engineer from the Philippines.
 
-Years ago, before Jekyll was even a thing, I used to blog about random stuff that comes to mind. This site will be more focused. I will mainly post about paper reviews, or any notable experiences that might be useful to others.
+Years ago, before Jekyll was even a thing, I used to blog about random stuff that comes to mind. This site will be more focused. I will mainly post about paper reviews, short tech tutorials, or anything else that might be useful to others.
