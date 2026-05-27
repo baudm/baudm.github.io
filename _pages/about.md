@@ -6,8 +6,8 @@ subtitle: Seasoned Software Engineer | Experienced AI Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  # image: prof_pic.jpg
+  # image_circular: true # crops the image to make it circular
   more_info:
 
 news: true # includes a list of news items
